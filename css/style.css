@@ -398,4 +398,12 @@ footer .credit a {
   html {
     font-size: 55%;
   }
+   .hero .content h1 {
+    line-height: 1em;
+  }
+
+  .hero .content p {
+    margin-top: 14px;
+  }
+}
 }
